@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleRespinsibility", "UML
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{9BB2210C-88DE-4E57-A4DD-E81732427B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitution", "LiskovSubstitution\LiskovSubstitution.csproj", "{0F2498CC-9538-42B7-8D07-06E3D475A14E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9BB2210C-88DE-4E57-A4DD-E81732427B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB2210C-88DE-4E57-A4DD-E81732427B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB2210C-88DE-4E57-A4DD-E81732427B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2498CC-9538-42B7-8D07-06E3D475A14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2498CC-9538-42B7-8D07-06E3D475A14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2498CC-9538-42B7-8D07-06E3D475A14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2498CC-9538-42B7-8D07-06E3D475A14E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
